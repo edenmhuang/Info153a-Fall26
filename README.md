@@ -1,1 +1,1 @@
-https://edenmhuang.github.io/info-153a-lab1/lab1.html
+https://edenmhuang.github.io/Info153a-Fall26/lab1.html
