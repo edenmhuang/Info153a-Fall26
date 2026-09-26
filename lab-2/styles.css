@@ -76,7 +76,7 @@ body {
   margin: 24px auto;
 }
 
-@media (max-width: 720px) {
+@media (max-width: 768px) {
 
   /* GUIDE 1: hide the horizontal nav by default on small screens */
   .nav {
